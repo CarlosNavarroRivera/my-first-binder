@@ -1,0 +1,3 @@
+# requirements.txt
+# Especifica al menos la versión de Python
+python>=3.9
